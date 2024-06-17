@@ -1,5 +1,5 @@
 
-const url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=15";
+const url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=25";
 
 function listaImagenes() {
     fetch(url)
